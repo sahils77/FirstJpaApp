@@ -1,0 +1,2 @@
+# FirstJpaApp
+AshokIt notes practice
